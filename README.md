@@ -67,10 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/andreyrodriguez3/andreyrodriguez3/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=57&fontColor=FFFFFF&fontAlign=45&fontAlignY=44&rotate=20&stroke=-&animation=fadeIn&descSize=10&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
